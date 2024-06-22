@@ -5,6 +5,6 @@ Given a project represented as a graph, the following will be calculated:
 2.	The critical path(s) in the project.
 3.	The following data for effective project management:
    
-  •	Earliest start time
-  •	Latest start time
-  •	Slack time
+  -	Earliest start time
+  -	Latest start time
+  -	Slack time
